@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Illustrations
-permalink: /illustrations/
+permalink: illustrations/
 ---
 
 hello illustrations
