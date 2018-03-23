@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Illustrations
-permalink: illustrations/
+permalink: /illustrations/
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.8/css/lightgallery.min.css">

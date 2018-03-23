@@ -27,3 +27,8 @@ version:          2.0.0
 
 github:
   repo:           https://github.com/TatianaHbel/personal
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-paginate
