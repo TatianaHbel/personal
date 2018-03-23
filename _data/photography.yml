@@ -1,0 +1,13 @@
+- name: First section
+  images: 
+    - image: https://farm4.staticflickr.com/3894/15008518202_b016d7d289_m.jpg
+      caption: Caption 1
+    - image: https://farm6.staticflickr.com/5591/15008867125_b61960af01_h.jpg
+      caption: Caption 2
+    - image: https://farm4.staticflickr.com/3902/14985871946_24f47d4b53_h.jpg
+      caption: Caption 3
+    - image: https://farm6.staticflickr.com/5584/14985868676_b51baa4071_h.jpg
+      caption: Caption 4
+    - image: https://farm4.staticflickr.com/3920/15008465772_d50c8f0531_h.jpg
+      caption: Caption 4
+- name: Second Section
