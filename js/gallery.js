@@ -1,8 +1,9 @@
 $(document).ready(function() {
     $(".lightgallery").lightGallery({
 		    thumbnail: true,
-		    animateThumb: false,
-		    showThumbByDefault: false
+		    animateThumb: true,
+		    showThumbByDefault: true
     });
     $(".lightgallery").justifiedGallery();
+    $(".gallery-section h2").fadeIn();
 });
