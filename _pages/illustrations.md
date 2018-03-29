@@ -9,8 +9,6 @@ permalink: /illustrations/
 <link rel="stylesheet" href="{{site.baseurl}}/css/gallery.css">
 
 
-hello illustrations
-
 {% for section in site.data.illustrations %}
 
 <div class="gallery-section">
