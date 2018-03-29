@@ -4,6 +4,9 @@ $(document).ready(function() {
 		    animateThumb: true,
 		    showThumbByDefault: true
     });
-    $(".lightgallery").justifiedGallery();
+    var options = {
+    	rowHeight: $(".justified-gallery").attr("data-height")
+    }
+    $(".lightgallery").justifiedGallery(options);
     $(".gallery-section h2").fadeIn();
 });

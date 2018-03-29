@@ -6,9 +6,7 @@ markdown:         kramdown
 permalink:        pretty
 
 # Setup
-title:            THEBELL
 tagline:          'A Jekyll theme'
-description:      This is the portfolio website of <span style="color:white">Tatiana Hernandez Bel</span>, teacher, designer and more things I don't remember
 url:              https://tatianahbel.github.io/personal/
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:          "/personal"
