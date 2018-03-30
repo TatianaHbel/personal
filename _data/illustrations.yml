@@ -1,10 +1,11 @@
 # caption es lo que verá el usuario cuando ponga una imagen en fullscreen (opcional)
 # thumbnail es si quieres que la imagen de thumbnail sea distinta que la imagen de fullscreen (opcional)
+# absolute: true se pone sólo en los casos en que sea una URL completa, por ejemplo http://sachinchoolur.github.io/lightGallery/static/img/6.jpg
+# las imagenes tienen que estar dentro de la carpeta img/illustrations
 
 - name: 
   images:  
-  - image: /personal/img/illustrations/mood-love.gif
+  - image: /mood-love.gif
     caption: Mood 
-  - image: /personal/img/illustrations/test.png
+  - image: /test.png
     caption: Test
-

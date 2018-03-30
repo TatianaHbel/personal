@@ -8,6 +8,7 @@ permalink: /illustrations/
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.5/css/justifiedGallery.min.css">
 <link rel="stylesheet" href="{{site.baseurl}}/css/gallery.css">
 
+{% capture path %}{{ site.baseurl }}/img/illustrations/{% endcapture %}
 
 {% for section in site.data.illustrations %}
 
@@ -17,8 +18,13 @@ permalink: /illustrations/
 <div class="lightgallery justified-gallery" data-height="200px">
 
 	{% for illustration in section.images %}
-	<a href="{{ illustration.image }}">
-	  <img src="{% if illustration.thumbnail %} {{ illustration.thumbnail }} {% else %}{{ illustration.image }}{% endif %}" alt="{{ illustration.caption }}"/>
+
+		{% if illustration.absolute %}
+			{% capture path%}{{}}{% endcapture %}
+		{% endif %}
+
+	<a href="{{ path }}{{ illustration.image }}">
+	  <img src="{% if illustration.thumbnail %} {{ path }}{{ illustration.thumbnail }} {% else %} {{ path }}{{ illustration.image }}{% endif %}" alt="{{ illustration.caption }}"/>
 	</a>
 	{% endfor %}
 
