@@ -20,7 +20,7 @@ permalink: /photography/
 		{% for photograph in section.images %}
 
 		{% if photograph.absolute %}
-			{% capture path%}{{}}{% endcapture %}
+			{% capture path %}{% endcapture %}
 		{% endif %}
 
 		<a href="{{ path }}{{ photograph.image }}">

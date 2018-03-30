@@ -20,7 +20,7 @@ permalink: /illustrations/
 	{% for illustration in section.images %}
 
 		{% if illustration.absolute %}
-			{% capture path%}{{}}{% endcapture %}
+			{% capture path %}{% endcapture %}
 		{% endif %}
 
 	<a href="{{ path }}{{ illustration.image }}">
