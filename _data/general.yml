@@ -1,10 +1,12 @@
+### icons can be searched here https://fontawesome.com/icons?d=gallery
+
 title:       THEBELL
 description: This is the portfolio website of <span style="color:white">Tatiana Hernandez Bel</span>, teacher, designer and more things I don't remember
 
 career:
   title: Career Profile
   description:
-    - paragraph: Magister en Informática Educativa con proyecto de investigación en Design Thinking, 
+    - paragraph: Magister en Informática Educativa con proyecto de investigación en Design Thinking. 
     - paragraph: Diseñadora Industrial con experiencia docente en Emprendimiento, Innovación y Creatividad. 
     - paragraph: Con habilidades gerenciales en planeación, creación e implantación de programas de formación orientados a los procesos de Design Thinking, Start Up, lean, start up, emprendimiento, innovación y comunicación.
     - paragraph: Como objetivo profesional tengo el establecerme como docente investigadora en mi país con miras a realizar estudios doctorales en temas relativos a la creatividad y las nuevas tecnologías, para impulsar a los jóvenes a valorar su cultura desde la innovación.
@@ -64,6 +66,22 @@ extra:
           - paragraph: Mgter. Admon y Plan. Educativa - UMECIT (Panamá)
           - paragraph: Doctorante Admon Gerencial - UBJ (México)
           - paragraph: + 57 (318) 878-0549
+  - name: Languages
+    icon: fa-language
+    items:
+      - title: Spanish
+        subtitle: Native
+      - title: English
+        subtitle: Advanced
+  - name: Interests
+    icon: fa-angellist
+    items:
+      - title:
+        subtitle:
+        description:
+          - paragraph: Photography
+          - paragraph: Cinema
+          - paragraph: Needlework
 
 skills:
   - title: Photoshop 
