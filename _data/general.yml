@@ -3,6 +3,10 @@
 title:       THEBELL
 description: This is the portfolio website of <span style="color:white">Tatiana Hernandez Bel</span>, teacher, designer and more things I don't remember
 
+twitter:  https://twitter.com/tatiHdez
+email:    tatihbel@gmail.com
+linkedin: https://www.linkedin.com/in/cindy-tatiana-hernandez-beltran-b8859955/
+
 career:
   title: Career Profile
   description:
@@ -10,26 +14,6 @@ career:
     - paragraph: Diseñadora Industrial con experiencia docente en Emprendimiento, Innovación y Creatividad. 
     - paragraph: Con habilidades gerenciales en planeación, creación e implantación de programas de formación orientados a los procesos de Design Thinking, Start Up, lean, start up, emprendimiento, innovación y comunicación.
     - paragraph: Como objetivo profesional tengo el establecerme como docente investigadora en mi país con miras a realizar estudios doctorales en temas relativos a la creatividad y las nuevas tecnologías, para impulsar a los jóvenes a valorar su cultura desde la innovación.
-
-education:
-  - title: Magister en Informática Educativa 
-    time: 2015-2018
-    place: Pontificia Universidad Javeriana
-  - title: Diseñadora Industrial 
-    time: 2007-2012
-    place: Pontificia Universidad Javeriana
-  - title: Diplomado en Pedagogía para Profesionales no Licenciados 
-    place: Universidad Santo Tomás Abierta y a Distancia
-    time: 2015
-  - title: Curso Profesional de Fotografía
-    place: Escuela de Cine y Fotografía, Zona Cinco
-    time: 2013
-  - title: Curso de Essential Modeling Rhinoceros Training 
-    place: Voxel Consulting and Training, de titularidad privada 
-    time: 2013
-  - title: Diplomado en Branding, Gestión y Manejo de Marca 
-    place: Pontificia Universidad Javeriana
-    time: 2013
 
 experience:
   - title: Docente y mentora en de Emprendimiento. Innovación y Creatividad en área técnica de diseño gráfico y publicitario
@@ -48,7 +32,30 @@ experience:
     description:
       - paragraph: Mentora y guía en los proyectos de emprendimiento de los estudiantes de undécimo grado en acompañamiento con la articulación con el Servicio Nacional de Aprendizaje, desarrollo del plan de estudios de la técnica en diseño gráfico y publicitario.
 
+education:
+  - title: Magister en Informática Educativa 
+    time: 2015-2018
+    place: Pontificia Universidad Javeriana
+  - title: Diseñadora Industrial 
+    time: 2007-2012
+    place: Pontificia Universidad Javeriana
+
 extra:
+  - name: Other studies
+    icon: fa-university
+    items:
+      - title: Diplomado en Pedagogía para Profesionales no Licenciados 
+        time: 2015
+        subtitle: Universidad Santo Tomás Abierta y a Distancia
+      - title: Curso Profesional de Fotografía
+        time: 2013
+        subtitle: Escuela de Cine y Fotografía, Zona Cinco
+      - title: Curso de Essential Modeling Rhinoceros Training
+        time: 2013
+        subtitle: Voxel Consulting and Training, de titularidad privada
+      - title: Diplomado en Branding, Gestión y Manejo de Marca
+        subtitle: Pontificia Universidad Javeriana
+        time: 2013
   - name: Recommendations
     icon: fa-users
     items:

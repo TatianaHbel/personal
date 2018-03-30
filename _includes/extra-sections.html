@@ -11,6 +11,9 @@
 
 		  <div class="upper-row">
 		    <h3 class="job-title">{{ item.title }}</h3>
+		    {% if item.time %}
+		    <div class="time">{{ item.time }}</div>
+		    {% endif %}
 		  </div><!--//upper-row-->
 
 		  <div class="company">{{ item.subtitle }}</div>

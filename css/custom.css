@@ -10,6 +10,16 @@
 	border-radius: 100%;
 	box-shadow: 0 1px 1px rgba(0,0,0,.1);
 }
-.sidebar-about a:hover{
+.sidebar-about a:hover {
 	text-decoration: none;
+}
+.contact-block {
+	text-align: center;
+	margin-bottom: 50px;
+}
+.contact-block a {
+	padding-left: 10px;
+}
+.contact-block i:hover {
+	color: #2d7788;
 }
