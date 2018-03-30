@@ -23,9 +23,11 @@
 	font-size: 14px;
 }
 .time {
-	position: absolute;
-	right: 0;
+	/*position: absolute;*/
+	/*right: 0;*/
 	/*top: 0;*/
+	text-align: right;
+	height: 0;
 	color: #97aac3;
 	font-size: 14px;
 }

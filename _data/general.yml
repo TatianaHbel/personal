@@ -12,14 +12,14 @@ career:
 education:
   - title: Magister en Informática Educativa 
     time: 2015-2018
-    place:
+    place: Pontificia Universidad Javeriana
   - title: Diseñadora Industrial 
     time: 2007-2012
     place: Pontificia Universidad Javeriana
 
 experience:
   - title: Docente y mentora en de Emprendimiento. Innovación y Creatividad en área técnica de diseño gráfico y publicitario
-    time: 2018
+    time: 2018-Present
     place: Ministerio de Educación Nacional - Secretaría de Educación Municipal Chía, Cundinamarca 
     description: 
       - paragraph: Mentora  y guía en los proyectos de emprendimiento de los estudiantes de undécimo grado en acompañamiento con la articulación con el Servicio Nacional de Aprendizaje, Lider y guía en el proceso de capacitación sobre Emprendimiento y TIC en convenio con, la Secretaría de Educación Municipal de Chía con la universidad de la Rioja y PROEDUCA España.
@@ -35,7 +35,7 @@ experience:
       - paragraph: Mentora  y guía en los proyectos de emprendimiento de los estudiantes de undécimo grado en acompañamiento con la articulación con el Servicio Nacional de Aprendizaje, desarrollo del plan de estudios de la técnica en diseño gráfico y publicitario.
 
 extra:
-  - name: Recomendaciones
+  - name: Recommendations
     icon: fa-users
     items:
       - title: Andres Mauricio Arguello V. 

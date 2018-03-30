@@ -9,9 +9,9 @@ title:
 
 {% include career-profile.html %}
 
-{% include education.html %}
-
 {% include experience.html %}
+
+{% include education.html %}
 
 {% include extra-sections.html %}
 
