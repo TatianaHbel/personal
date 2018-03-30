@@ -2,21 +2,26 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>{{ site.data.general.title }}</h1>
+      <div class="profile-container">
+        <img class="profile-img" src="{{ site.baseurl }}/img/pp.jpg" alt="profile picture">
+      </div>
       <p class="lead">{{ site.data.general.description }}</p>
     </div>
 
-    <ul class="sidebar-nav">
-      {% for link in site.data.navigation %}
-        {% assign current = nil %}
-        {% if page.url == link.url %}
-          {% assign current = 'active' %}
-        {% endif %}
-        <li class="sidebar-nav-item {{ current }}">
-          <a href="{{ site.baseurl }}{{ link.url }}">{{ link.text }}</a>
-        </li>
-      {% endfor %}
-    </ul>
+    <div>
+      <ul class="sidebar-nav">
+        {% for link in site.data.navigation %}
+          {% assign current = nil %}
+          {% if page.url == link.url %}
+            {% assign current = 'active' %}
+          {% endif %}
+          <li class="sidebar-nav-item {{ current }}">
+            <a href="{{ site.baseurl }}{{ link.url }}">{{ link.text }}</a>
+          </li>
+        {% endfor %}
+      </ul>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+      <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    </div>
   </div>
 </div>
