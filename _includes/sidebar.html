@@ -7,9 +7,18 @@
       </div>
 
       <div class="contact-block">
+        {% if site.data.general.linkedin %}
         <a href="{{ site.data.general.linkedin }}"><i class="fa fa fa-linkedin"></i></a>
+        {% endif %}
+        {% if site.data.general.twitter %}
         <a href="{{ site.data.general.twitter }}"><i class="fa fa fa-twitter"></i></a>
+        {% endif %}
+        {% if site.data.general.tumblr %}
+        <a href="{{ site.data.general.tumblr }}"><i class="fa fa fa-tumblr"></i></a>
+        {% endif %}
+        {% if site.data.general.email %}
         <a href="mailto:{{ site.data.general.email }}"><i class="fa fa fa-envelope"></i></a>
+        {% endif %}
       </div>
 
       <p class="lead">{{ site.data.general.description }}</p>
