@@ -18,6 +18,7 @@
 }
 .company {
 	margin-bottom: 10px;
+	margin-top: 0;
 	color: #97aac3;
 	font-size: 14px;
 }
@@ -28,10 +29,15 @@
 	color: #97aac3;
 	font-size: 14px;
 }
+.item {
+	margin-bottom: 30px;
+}
 .summary {
 	font-size: 14px;
 }
-
+.summary p {
+	margin-bottom: 0;
+}
 
 .skillset .item {
   margin-bottom: 15px;

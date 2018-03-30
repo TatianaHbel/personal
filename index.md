@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tatiana Hernandez
+title:
 ---
 
 <link rel="stylesheet" href="css/cv.css">
