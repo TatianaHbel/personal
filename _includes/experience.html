@@ -1,0 +1,35 @@
+{% if site.data.general.experience %}
+
+<section class="section experiences-section">
+  <h2 class="section-title"><i class="fa fa-briefcase"></i> Experiences</h2>
+
+{% for experience in site.data.general.experience %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ experience.title }}</h3>
+        <div class="time">{{ experience.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ experience.place }}</div>
+
+    </div><!--//meta-->
+
+    {% if experience.description %}
+    <div class="details">
+      {% for paragraph in experience.description %}
+
+      <p> {{ paragraph.paragraph }} </p>
+
+      {% endfor %}
+    </div>
+    {% endif %}
+
+  </div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+
+{% endif %}

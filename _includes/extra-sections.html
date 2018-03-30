@@ -1,0 +1,36 @@
+{% for section in site.data.general.extra %}
+
+<section class="section summary-section">
+    <h2 class="section-title"><i class="fa {{ section.icon }}"></i> {{ section.name }}</h2>
+
+    {% for item in section.items %}
+
+	<div class="item">
+
+		<div class="meta">
+
+		  <div class="upper-row">
+		    <h3 class="job-title">{{ item.title }}</h3>
+		  </div><!--//upper-row-->
+
+		  <div class="company">{{ item.subtitle }}</div>
+
+		</div><!--//meta-->
+
+		{% if item.description %}
+		<div class="details">
+		  {% for paragraph in item.description %}
+
+		  <p> {{ paragraph.paragraph }} </p>
+
+		  {% endfor %}
+		</div>
+		{% endif %}
+
+	</div><!--//item-->
+
+	{% endfor %}
+</section>
+<!--//section-->
+
+{% endfor %}

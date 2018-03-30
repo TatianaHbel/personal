@@ -1,0 +1,14 @@
+<section class="section summary-section">
+    <h2 class="section-title"><i class="fa fa-user"></i> Career Profile</h2>
+    <div class="summary">
+
+    	{% for paragraph in site.data.general.career.description %}
+
+    	<p> {{ paragraph.paragraph }} </p>
+
+    	{% endfor %}
+
+    </div>
+    <!--//summary-->
+</section>
+<!--//section-->

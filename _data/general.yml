@@ -1,2 +1,62 @@
 title:       THEBELL
 description: This is the portfolio website of <span style="color:white">Tatiana Hernandez Bel</span>, teacher, designer and more things I don't remember
+
+career:
+  title: Career Profile
+  description:
+    - paragraph: Magister en Informática Educativa con proyecto de investigación en Design Thinking, 
+    - paragraph: Diseñadora Industrial con experiencia docente en Emprendimiento, Innovación y Creatividad. 
+    - paragraph: Con habilidades gerenciales en planeación, creación e implantación de programas de formación orientados a los procesos de Design Thinking, Start Up, lean, start up, emprendimiento, innovación y comunicación.
+    - paragraph: Como objetivo profesional tengo el establecerme como docente investigadora en mi país con miras a realizar estudios doctorales en temas relativos a la creatividad y las nuevas tecnologías, para impulsar a los jóvenes a valorar su cultura desde la innovación.
+
+education:
+  - title: Magister en Informática Educativa 
+    time: 2015-2018
+    place:
+  - title: Diseñadora Industrial 
+    time: 2007-2012
+    place: Pontificia Universidad Javeriana
+
+experience:
+  - title: Docente y mentora en de Emprendimiento. Innovación y Creatividad en área técnica de diseño gráfico y publicitario
+    time: 2018
+    place: Ministerio de Educación Nacional - Secretaría de Educación Municipal Chía, Cundinamarca 
+    description: 
+      - paragraph: Mentora  y guía en los proyectos de emprendimiento de los estudiantes de undécimo grado en acompañamiento con la articulación con el Servicio Nacional de Aprendizaje, Lider y guía en el proceso de capacitación sobre Emprendimiento y TIC en convenio con, la Secretaría de Educación Municipal de Chía con la universidad de la Rioja y PROEDUCA España.
+  - title: Docente y mentora en de Emprendimiento. Innovación y Creatividad en área técnica de diseño gráfico y publicitario 
+    time: 2015-2017
+    place: Instituto Diversificado Albert Einstein - SAET LTDA
+    description:
+      - paragraph: Mentora en los proyectos de emprendimiento y creatividad de los estudiantes de undécimo grado, asesora y diseñadora de la feria técnica EXPOETTA, desarrollo del plan de estudios de la técnica en diseño gráfico y publicitario.
+  - title: Docente y mentora en de Emprendimiento. Innovación y Creatividad en área técnica de diseño gráfico y publicitario
+    time: 2014-2015
+    place: Ministerio de Educación Nacional - Secretaría de Educación Municipal Chía, Cundinamarca   
+    description:
+      - paragraph: Mentora  y guía en los proyectos de emprendimiento de los estudiantes de undécimo grado en acompañamiento con la articulación con el Servicio Nacional de Aprendizaje, desarrollo del plan de estudios de la técnica en diseño gráfico y publicitario.
+
+extra:
+  - name: Recomendaciones
+    icon: fa-users
+    items:
+      - title: Andres Mauricio Arguello V. 
+        subtitle:
+        description:
+          - paragraph: Estudiante de Maestría en Diseño Investigación UNAL
+          - paragraph: Especialista en docencia Universitaria UEB 
+          - paragraph: Diseñador Industrial FUAC
+          - paragraph: + 57 (321) 435-9975
+      - title: Wilson Orlando GIl 
+        subtitle:
+        description:
+          - paragraph: Administrador de Empresas - FUKL
+          - paragraph: Mgter. Admon y Plan. Educativa - UMECIT (Panamá)
+          - paragraph: Doctorante Admon Gerencial - UBJ (México)
+          - paragraph: + 57 (318) 878-0549
+
+skills:
+  - title: Photoshop 
+    level: 90%
+  - title: Illustrator
+    level: 95%
+  - title: CSS
+    level: 40%
