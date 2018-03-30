@@ -1,0 +1,30 @@
+.section-title {
+	text-transform: uppercase;
+	font-size: 20px;
+	color: #2d7788;
+	margin-bottom: 20px;
+	margin-top: 0;
+	font-weight: 500;
+}
+.job-title {
+	color: #3f4650;
+	font-size: 16px;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-weight: 500;
+}
+.company {
+	margin-bottom: 10px;
+	color: #97aac3;
+	font-size: 14px;
+}
+.time {
+	position: absolute;
+	right: 0;
+	/*top: 0;*/
+	color: #97aac3;
+	font-size: 14px;
+}
+.summary {
+	font-size: 14px;
+}

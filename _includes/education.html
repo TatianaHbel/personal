@@ -1,16 +1,16 @@
-<div class="education-container container-block">
-    <h2 class="container-block-title"><i class="fa fa-graduation-cap"></i> Education</h2>
+<section class="section">
+    <h2 class="section-title"><i class="fa fa-graduation-cap"></i> Education</h2>
 
     {% for entry in site.data.general.education %}
 
     <div class="item">
-        <h4 class="degree">{{ entry.title }}</h4>
-        <h5 class="meta">{{ entry.place }}</h5>
+        <h4 class="job-title">{{ entry.title }}</h4>
         <div class="time">{{ entry.time }}</div>
+        <h5 class="company">{{ entry.place }}</h5>
+        
     </div>
     <!--//item-->
 
     {% endfor %}
 
-</div>
-<!--//education-container-->
+</section>
