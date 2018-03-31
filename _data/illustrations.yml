@@ -5,7 +5,7 @@
 
 - name: 
   images:  
-  - image: /intheMood.gif
+  - image: intheMood.gif
     caption: In the Mood for Love
   - image: /test.png
     caption: Test
