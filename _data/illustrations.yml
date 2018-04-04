@@ -5,7 +5,11 @@
 
 - name: 
   images:  
+  - image: mood-love.png
+    caption: In the Mood for Love
   - image: mood-love.gif
     caption: In the Mood for Love
-  - image: /test.png
-    caption: Test
+  - image: daniel_1.png
+    caption: Circulo de Bellas Artes
+  - image: daniel_3.png
+    caption: Circulo de Bellas Artes
