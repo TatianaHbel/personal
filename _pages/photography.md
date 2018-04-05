@@ -27,11 +27,10 @@ permalink: /photography/
 			<img src="{% if photograph.thumbnail %} {{ path }}{{ photograph.thumbnail }} {% else %} {{ path }}{{ photograph.image }} {% endif %}" alt="{{ photograph.caption }}"/>
 			{% if photograph.badge %}
 			<span class="badge">
-			  	{% if photograph.badgetype == 'icon' %}
-				<i class="{{photograph.badge}}"></i>
-				{% else %}
-					{{ photograph.badge }}
+				{% if photograph.badgeIcon %}
+				<i class="{{ photograph.badgeIcon }}"></i>
 				{% endif %}
+				{{ photograph.badgeText }}
 			</span>
 			{% endif %}
 		</a>

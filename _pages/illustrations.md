@@ -25,13 +25,12 @@ permalink: /illustrations/
 
 		<a href="{{ path }}{{ illustration.image }}">
 		  <img src="{% if illustration.thumbnail %} {{ path }}{{ illustration.thumbnail }} {% else %} {{ path }}{{ illustration.image }}{% endif %}" alt="{{ illustration.caption }}"/>
-		  {% if illustration.badge %}
+		  {% if illustration.badgeIcon or illustration.badgeText %}
 		  <span class="badge">
-		  	{% if illustration.badgetype == 'icon' %}
-		  	<i class="{{illustration.badge}}"></i>
-		  	{% else %}
-		  	{{ illustration.badge }}
+		  	{% if illustration.badgeIcon %}
+		  	<i class="{{ illustration.badgeIcon }}"></i>
 		  	{% endif %}
+		  	{{ illustration.badgeText }}
 		  </span>
 		  {% endif %}
 		</a>
