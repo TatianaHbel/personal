@@ -19,13 +19,23 @@ permalink: /photography/
 
 		{% for photograph in section.images %}
 
-		{% if photograph.absolute %}
-			{% capture path %}{% endcapture %}
-		{% endif %}
+			{% if photograph.absolute %}
+				{% capture path %}{% endcapture %}
+			{% endif %}
 
 		<a href="{{ path }}{{ photograph.image }}">
-		  <img src="{% if photograph.thumbnail %} {{ path }}{{ photograph.thumbnail }} {% else %} {{ path }}{{ photograph.image }} {% endif %}" alt="{{ photograph.caption }}"/>
+			<img src="{% if photograph.thumbnail %} {{ path }}{{ photograph.thumbnail }} {% else %} {{ path }}{{ photograph.image }} {% endif %}" alt="{{ photograph.caption }}"/>
+			{% if photograph.badge %}
+			<span class="badge">
+			  	{% if photograph.badgetype == 'icon' %}
+				<i class="{{photograph.badge}}"></i>
+				{% else %}
+					{{ photograph.badge }}
+				{% endif %}
+			</span>
+			{% endif %}
 		</a>
+
 		{% endfor %}
 
 	</div>

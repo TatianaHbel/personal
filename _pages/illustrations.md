@@ -15,20 +15,29 @@ permalink: /illustrations/
 <div class="gallery-section">
 	<h2>{{ section.name }}</h2>
 
-<div class="lightgallery justified-gallery" data-height="200px">
+	<div class="lightgallery justified-gallery" data-height="200px">
 
-	{% for illustration in section.images %}
+		{% for illustration in section.images %}
 
-		{% if illustration.absolute %}
-			{% capture path %}{% endcapture %}
-		{% endif %}
+			{% if illustration.absolute %}
+				{% capture path %}{% endcapture %}
+			{% endif %}
 
-	<a href="{{ path }}{{ illustration.image }}">
-	  <img src="{% if illustration.thumbnail %} {{ path }}{{ illustration.thumbnail }} {% else %} {{ path }}{{ illustration.image }}{% endif %}" alt="{{ illustration.caption }}"/>
-	</a>
-	{% endfor %}
+		<a href="{{ path }}{{ illustration.image }}">
+		  <img src="{% if illustration.thumbnail %} {{ path }}{{ illustration.thumbnail }} {% else %} {{ path }}{{ illustration.image }}{% endif %}" alt="{{ illustration.caption }}"/>
+		  {% if illustration.badge %}
+		  <span class="badge">
+		  	{% if illustration.badgetype == 'icon' %}
+		  	<i class="{{illustration.badge}}"></i>
+		  	{% else %}
+		  	{{ illustration.badge }}
+		  	{% endif %}
+		  </span>
+		  {% endif %}
+		</a>
+		{% endfor %}
 
-</div>
+	</div>
 
 </div>
 

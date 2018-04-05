@@ -23,3 +23,12 @@
 .contact-block i:hover {
 	color: #2d7788;
 }
+.badge {
+	position: absolute;
+	left: 85%;
+	border-radius: 10px 10px 10px 10px;
+	color: white;
+	background-color: #515151;
+	padding: 5px;
+	font-size: 12px;
+}

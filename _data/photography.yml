@@ -2,6 +2,7 @@
 # thumbnail es si quieres que la imagen de thumbnail sea distinta que la imagen de fullscreen (opcional)
 # absolute: true se pone sólo en los casos en que sea una URL completa, por ejemplo http://sachinchoolur.github.io/lightGallery/static/img/6.jpg
 # las imagenes tienen que estar dentro de la carpeta img/photographs
+# badgetype puedes ser "icon" o "text". Los icons disponibles están aqui https://fontawesome.com/icons?d=gallery
 
 - name: Studio
   images: 
