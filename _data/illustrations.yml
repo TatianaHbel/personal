@@ -6,8 +6,6 @@
 
 - name: 
   images:  
-  - image: mood-love.png
-    caption: In the Mood for Love
   - image: mood-love.gif
     thumbnail: mood-love.png
     caption: In the Mood for Love
@@ -15,5 +13,3 @@
     badgeText: GIF
   - image: daniel_final.png
     caption: Circulo de Bellas Artes
-    badgeIcon: fa fa-paint-brush
-    badgeText: Color 
