@@ -13,8 +13,7 @@
     caption: In the Mood for Love
     badgeIcon: fa fa-film
     badgeText: GIF
-  - image: daniel_1.png
+  - image: daniel_final.png
     caption: Circulo de Bellas Artes
-  - image: daniel_3.png
-    caption: Circulo de Bellas Artes
-    badgeText: color
+    badgeIcon: fa paint-brush
+    badgeText: Color 
