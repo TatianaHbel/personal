@@ -7,9 +7,9 @@ permalink:        pretty
 
 # Setup
 tagline:          'A Jekyll theme'
-url:              https://tatianahbel.github.io/personal/
+url:              https://tatianahbel.github.io/
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl:          "/personal"
+baseurl:          ""
 
 author:
   name:           'Tatiana Hernandez'
