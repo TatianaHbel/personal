@@ -14,4 +14,15 @@
       caption: Marioneta
     - image: icaro1.png
       caption: Icaro
-- name: Food Styling
+- name: Places
+  images: 
+    - image: alcazar.png
+      caption: Alcazar
+    - image: alcazar2.png
+      caption: Alcazar
+    - image: granada.png
+      caption: Granada
+    - image: granada2.png
+      caption: Granada 
+    - image: retiro.png
+      caption: Parque Retiro 
