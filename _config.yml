@@ -6,7 +6,7 @@ markdown:         kramdown
 permalink:        pretty
 
 # Setup
-tagline:          'A Jekyll theme'
+tagline:          'portfolio'
 url:              https://tatianahbel.github.io/
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:          ""
