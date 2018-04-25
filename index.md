@@ -1,6 +1,5 @@
 ---
 layout: page
-title:
 ---
 
 <link rel="stylesheet" href="css/cv.css">
