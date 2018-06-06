@@ -4,6 +4,13 @@
 # las imagenes tienen que estar dentro de la carpeta img/photographs
 # badgeIcon es si quieres poner icono, badgeText si quieres poner texto. Los icons disponibles están aqui https://fontawesome.com/icons?d=gallery
 
+
+- name: B&W
+  images: 
+    - image: bnw.jpg
+      caption: B&W
+    - image: bnw2.jpg
+      caption: B&W
 - name: Studio
   images: 
     - image: m1.png
