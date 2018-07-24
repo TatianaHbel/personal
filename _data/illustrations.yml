@@ -5,7 +5,9 @@
 # badgeIcon es si quieres poner icono, badgeText si quieres poner texto. Los icons disponibles están aqui https://fontawesome.com/icons?d=gallery
 
 - name: 
-  images:  
+  images: 
+  - image: short.png
+    caption: B&W 
   - image: mood-love.gif
     thumbnail: mood-love.png
     caption: In the Mood for Love
@@ -14,6 +16,8 @@
   - image: Danie2.png
     caption: B&W
   - image: unnamed.png
+    caption: B&W
+  - image: bed.png
     caption: B&W
   - image: daniel_final.png
     caption: Circulo de Bellas Artes
