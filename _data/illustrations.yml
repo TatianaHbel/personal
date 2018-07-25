@@ -7,6 +7,7 @@
 - name: 
   images: 
   - image: short.png
+    thumbnail: short-min.png
     caption: B&W 
   - image: mood-love.gif
     thumbnail: mood-love.png
@@ -16,18 +17,23 @@
   - image: Danie2.png
     caption: B&W
   - image: unnamed.png
+    thumbnail: unnamed.png
     caption: B&W
   - image: bed.png
+    thumbnail: bed-min.png
     caption: B&W
 - name: 
   images: 
   - image: daniel_final.png
     caption: Circulo de Bellas Artes
+    thumbnail: daniel_final-min.png
   - image: david1.png
     caption: Hoian
   - image: girl1.png
+    thumbnail: girl1-min.png
     caption: Red Lips
   - image: david2.png
+    thumbnail: david2-min.png
     caption: Hoian
   - image: danie4-min.png
     caption: Circulo de Bellas Artes

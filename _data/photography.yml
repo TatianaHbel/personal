@@ -8,16 +8,21 @@
 - name: B&W
   images: 
     - image: bnw.jpg
+      thumbnail: bnw-min.jpg
       caption: B&W
     - image: bnw2.jpg
+      thumbnail: bnw2-min.jpg
       caption: B&W
 - name: Studio
   images: 
     - image: m1.png
+      thumbnail: m1-min.png
       caption: Marioneta
     - image: m2.png
+      thumbnail: m2-min.png
       caption: Marioneta
     - image: m3.png
+      thumbnail: m3-min.png
       caption: Marioneta
     - image: icaro1.png
       caption: Icaro

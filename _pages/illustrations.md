@@ -15,7 +15,7 @@ permalink: /illustrations/
 <div class="gallery-section">
 	<h2>{{ section.name }}</h2>
 
-	<div class="lightgallery justified-gallery" data-height="200px">
+	<div class="lightgallery justified-gallery" data-height="230px">
 
 		{% for illustration in section.images %}
 

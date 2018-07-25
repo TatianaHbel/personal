@@ -33,3 +33,7 @@
 	padding: 5px;
 	font-size: 12px;
 }
+
+.content {
+	max-width: 100%;
+}
