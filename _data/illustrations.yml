@@ -6,8 +6,11 @@
 
 - name: 
   images:
-  - image: intro-min.png
-    thumbnail: 
+  - image: intro_1.gif
+    thumbnail: bubble.png
+    caption: Bubble Gum 
+    badgeIcon: fa fa-film
+    badgeText: GIF
   - image: short.png
     thumbnail: short-min.png
     caption: B&W 
