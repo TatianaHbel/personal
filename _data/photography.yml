@@ -4,30 +4,12 @@
 # las imagenes tienen que estar dentro de la carpeta img/photographs
 # badgeIcon es si quieres poner icono, badgeText si quieres poner texto. Los icons disponibles están aqui https://fontawesome.com/icons?d=gallery
 
-
-- name: B&W
-  images: 
-    - image: bnw.jpg
-      thumbnail: bnw-min.jpg
-      caption: B&W
-    - image: bnw2.jpg
-      thumbnail: bnw2-min.jpg
-      caption: B&W
-- name: Studio
-  images: 
-    - image: m1.png
-      thumbnail: m1-min.png
-      caption: Marioneta
-    - image: m2.png
-      thumbnail: m2-min.png
-      caption: Marioneta
-    - image: m3.png
-      thumbnail: m3-min.png
-      caption: Marioneta
-    - image: icaro1.png
-      caption: Icaro
 - name: Places
-  images: 
+  images:  
+    - image: porto.png
+      caption: Summer
+    - image: sevilla_2.png
+      caption: Summer
     - image: alcazar.png
       caption: Alcazar
     - image: alcazar2.png
@@ -44,3 +26,26 @@
       caption: Puerta de Alcalá 
     - image: debod.png
       caption: Templo Debod 
+
+- name: B&W
+  images: 
+    - image: bnw.jpg
+      thumbnail: bnw-min.jpg
+      caption: B&W
+    - image: bnw2.jpg
+      thumbnail: bnw2-min.jpg
+      caption: B&W
+
+- name: Studio
+  images: 
+    - image: m1.png
+      thumbnail: m1-min.png
+      caption: Marioneta
+    - image: m2.png
+      thumbnail: m2-min.png
+      caption: Marioneta
+    - image: m3.png
+      thumbnail: m3-min.png
+      caption: Marioneta
+    - image: icaro1.png
+      caption: Icaro
