@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /curriculum/
 ---
 
-<link rel="stylesheet" href="css/cv.css">
+<link rel="stylesheet" href="../css/cv.css">
 
 
 {% include career-profile.html %}
