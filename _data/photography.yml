@@ -6,6 +6,8 @@
 
 - name: Places
   images:  
+    - image: madrid.png
+      caption: Summer
     - image: porto.png
       caption: Summer
     - image: sevilla_2.png
@@ -26,15 +28,21 @@
       caption: Puerta de Alcalá 
     - image: debod.png
       caption: Templo Debod 
-
+    - image: pilares.png
+      caption: Detalles
+      
 - name: B&W
   images: 
+    - image: perfectplace.png
+      caption: Calle Alcantara
     - image: bnw.jpg
       thumbnail: bnw-min.jpg
       caption: B&W
     - image: bnw2.jpg
       thumbnail: bnw2-min.jpg
-      caption: B&W
+      caption: B&W- 
+    - image: Lisboa.png
+      caption: Mirador 
 
 - name: Studio
   images: 
