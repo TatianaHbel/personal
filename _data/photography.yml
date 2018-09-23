@@ -30,11 +30,9 @@
       caption: Templo Debod 
     - image: pilares.png
       caption: Detalles
-      
+
 - name: B&W
   images: 
-    - image: perfectplace.png
-      caption: Calle Alcantara
     - image: bnw.jpg
       thumbnail: bnw-min.jpg
       caption: B&W
@@ -43,6 +41,9 @@
       caption: B&W- 
     - image: Lisboa.png
       caption: Mirador 
+    - image: perfectplace.png
+      caption: Calle Alcantara
+   
 
 - name: Studio
   images: 
