@@ -6,6 +6,9 @@
 
 - name: 
   images:
+  - image: water-min.png
+    thumbnail: water-min.png
+    caption: B&W 
   - image: intro_1.gif
     thumbnail: bubble.png
     caption: Bubble Gum 
@@ -29,6 +32,9 @@
     caption: B&W
 - name: 
   images: 
+  - image: gris-min.png
+    caption: G R I S 
+    thumbnail: gris-min.png
   - image: daniel_final.png
     caption: Circulo de Bellas Artes
     thumbnail: daniel_final-min.png
