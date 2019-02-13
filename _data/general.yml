@@ -11,32 +11,42 @@ pinterest:   https://www.pinterest.es/tatihbel/
 career:
   title: Career Profile
   description:
-    - paragraph: As an industrial designer, my academic, human and work training has focused on the development and implementa- tion of useful proposals in the  eld of design thinking and education. 
-    - paragraph: I have experience as director of creative and educational processes oriented to the planning, design and implementation of start ups and lean startup.
-   
+    - paragraph: As an industrial designer, my academic, human and work training has focused on the development and implementation of useful proposals in the eld of design thinking and education. I have experience as director of creative and educational processes oriented to the planning, design and implementation of start ups and lean startup.
    
 experience:
-  - title: Docente y mentora en de Emprendimiento. Innovación y Creatividad en área técnica de diseño gráfico y publicitario
-    time: 2018-Present
+  - title: Professor and mentor in Entrepreneurship. Innovation and creativity in technical area of ​​graphic and advertising design
+    time: 2017-Present
     place: Ministerio de Educación Nacional - Secretaría de Educación Municipal Chía, Cundinamarca 
     description: 
-      - paragraph: Mentora  y guía en los proyectos de emprendimiento de los estudiantes de undécimo grado en acompañamiento con la articulación con el Servicio Nacional de Aprendizaje, Lider y guía en el proceso de capacitación sobre Emprendimiento y TIC en convenio con, la Secretaría de Educación Municipal de Chía con la universidad de la Rioja y PROEDUCA España.
-  - title: Docente y mentora en de Emprendimiento. Innovación y Creatividad en área técnica de diseño gráfico y publicitario 
-    time: 2015-2017
+      - paragraph: Mentor and guide in the entrepreneurship projects of the eleventh grade students in accompaniment with the articulation with the National Service of Learning SENA.
+      - paragraph: Leader and guide in the process of training on Entrepreneurship and ICT in agreement with the Municipal Education Secretariat of Chia with the University of La Rioja and PROEDUCA Spain.
+  
+  - title: Half time University professor of creativity and entrepreneurship.
+    time: 2018
+    place: Uniempresarial
+    description:
+      - paragraph: Teaching professor half time of the program of entrepreneurship and Mentorin the projects of entrepreneurship and creativity, of the programs of the university.
+      - paragraph: Evaluator of final projects of the Specialization in Senior Management.
+
+  - title: Professor and mentor in Entrepreneurship. Innovation and creativity in technical area of ​​graphic and advertising design
+    time: 2016-2017
     place: Instituto Diversificado Albert Einstein - SAET LTDA
     description:
-      - paragraph: Mentora en los proyectos de emprendimiento y creatividad de los estudiantes de undécimo grado, asesora y diseñadora de la feria técnica EXPOETTA, desarrollo del plan de estudios de la técnica en diseño gráfico y publicitario.
-  - title: Docente y mentora en de Emprendimiento. Innovación y Creatividad en área técnica de diseño gráfico y publicitario
+      - paragraph: Mentor in the projects of entrepreneurship and creativity of the eleventh grade students, Advisor and designer of the EXPOETTA technical fair.
+      - paragraph: Development of the curriculum of the technique in graphic and advertising design.
+
+  - title: Professor and mentor in Entrepreneurship. Innovation and creativity in technical area of ​​graphic and advertising design
     time: 2014-2015
     place: Ministerio de Educación Nacional - Secretaría de Educación Municipal Chía, Cundinamarca   
     description:
-      - paragraph: Mentora y guía en los proyectos de emprendimiento de los estudiantes de undécimo grado en acompañamiento con la articulación con el Servicio Nacional de Aprendizaje, desarrollo del plan de estudios de la técnica en diseño gráfico y publicitario.
+      - paragraph: Mentor and guide in the entrepreneurship projects of the eleventh grade students in accompaniment with the articulation with the National Service of Learning.
+      - paragraph: Development of the curriculum of the technique in graphic design and advertising.
 
 education:
   - title: Magister en Informática Educativa 
     time: 2015-2018
     place: Universidad de la Sabana
-  - title: Diseñadora Industrial 
+  - title: Industrial Designer
     time: 2007-2012
     place: Pontificia Universidad Javeriana
 
@@ -44,28 +54,21 @@ extra:
   - name: Other studies
     icon: fa-university
     items:
-      - title: Diplomado en Pedagogía para Profesionales no Licenciados 
+      - title: Diploma in Pedagogy for Non-Licensed Professionals 
         time: 2015
         subtitle: Universidad Santo Tomás Abierta y a Distancia
-      - title: Curso Profesional de Fotografía
+      - title: Professional Photography Course
         time: 2013
         subtitle: Escuela de Cine y Fotografía, Zona Cinco
-      - title: Curso de Essential Modeling Rhinoceros Training
+      - title: Essential Modeling Rhinoceros Training
         time: 2013
         subtitle: Voxel Consulting and Training, de titularidad privada
-      - title: Diplomado en Branding, Gestión y Manejo de Marca
+      - title: Diploma in Branding, Management and Brand Management
         subtitle: Pontificia Universidad Javeriana
         time: 2013
   - name: Recommendations
     icon: fa-users
     items:
-      - title: Andres Mauricio Arguello V. 
-        subtitle:
-        description:
-          - paragraph: Estudiante de Maestría en Diseño Investigación UNAL
-          - paragraph: Especialista en docencia Universitaria UEB 
-          - paragraph: Diseñador Industrial FUAC
-          - paragraph: + 57 (321) 435-9975
       - title: Wilson Orlando GIl 
         subtitle:
         description:
@@ -91,6 +94,12 @@ extra:
           - paragraph: Needlework
 
 skills:
+  - title: Creative Process 
+    level: 100%
+  - title: Strategic Planning
+    level: 80%
+  - title: Project Management and Research
+    level: 90%
   - title: Photoshop 
     level: 90%
   - title: Illustrator
@@ -101,10 +110,7 @@ skills:
     level: 40%
   - title: VideoCut Premiere
     level: 40%
-  - title: Planeación Estratégica 
-    level: 80%
-  - title: Gestión e Investigación de proyectos 
-    level: 90%
+ 
 
 
 
