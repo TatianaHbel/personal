@@ -1,8 +1,14 @@
+{% if {{include.lang}} == 'ES' %}
+	{% assign career = site.data.career.career-es %}
+{% else %}
+	{% assign career = site.data.career.career %}
+{% endif %}
+
 <section class="section summary-section">
-    <h2 class="section-title"><i class="fa fa-user"></i> Career Profile</h2>
+    <h2 class="section-title"><i class="fa fa-user"></i> {{ career.title }}</h2>
     <div class="summary">
 
-    	{% for paragraph in site.data.general.career.description %}
+    	{% for paragraph in career.description %}
 
     	<p> {{ paragraph.paragraph }} </p>
 

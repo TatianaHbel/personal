@@ -1,4 +1,10 @@
-{% for section in site.data.general.extra %}
+{% if {{include.lang}} == 'ES' %}
+    {% assign extra = site.data.extra.extra-es %}
+{% else %}
+    {% assign extra = site.data.extra.extra %}
+{% endif %}
+
+{% for section in extra %}
 
 <section class="section summary-section">
     <h2 class="section-title"><i class="fa {{ section.icon }}"></i> {{ section.name }}</h2>

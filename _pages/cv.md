@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-permalink: /curriculum/
+permalink: /resume/
 ---
 
 <link rel="stylesheet" href="../css/cv.css">

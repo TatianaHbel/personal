@@ -1,0 +1,85 @@
+extra:
+  - name: Other studies
+    icon: fa-university
+    items:
+      - title: Diploma in Pedagogy for Non-Licensed Professionals 
+        time: 2015
+        subtitle: Universidad Santo Tomás Abierta y a Distancia
+      - title: Professional Photography Course
+        time: 2013
+        subtitle: Escuela de Cine y Fotografía, Zona Cinco
+      - title: Essential Modeling Rhinoceros Training
+        time: 2013
+        subtitle: Voxel Consulting and Training, de titularidad privada
+      - title: Diploma in Branding, Management and Brand Management
+        subtitle: Pontificia Universidad Javeriana
+        time: 2013
+  - name: Recommendations
+    icon: fa-users
+    items:
+      - title: Wilson Orlando GIl 
+        subtitle:
+        description:
+          - paragraph: Administrador de Empresas - FUKL
+          - paragraph: Mgter. Admon y Plan. Educativa - UMECIT (Panamá)
+          - paragraph: Doctorante Admon Gerencial - UBJ (México)
+          - paragraph: + 57 (318) 878-0549
+  - name: Languages
+    icon: fa-language
+    items:
+      - title: Spanish
+        subtitle: Native
+      - title: English
+        subtitle: Advanced
+  - name: Interests
+    icon: fa-angellist
+    items:
+      - title:
+        subtitle:
+        description:
+          - paragraph: Photography
+          - paragraph: Cinema
+          - paragraph: Needlework
+
+extra-es:
+  - name: Otros Estudios
+    icon: fa-university
+    items:
+      - title: Diploma en Pedagogy for Non-Licensed Professionals 
+        time: 2015
+        subtitle: Universidad Santo Tomás Abierta y a Distancia
+      - title: Professional Photography Course
+        time: 2013
+        subtitle: Escuela de Cine y Fotografía, Zona Cinco
+      - title: Essential Modeling Rhinoceros Training
+        time: 2013
+        subtitle: Voxel Consulting and Training, de titularidad privada
+      - title: Diploma in Branding, Management and Brand Management
+        subtitle: Pontificia Universidad Javeriana
+        time: 2013
+  - name: Recomendaciones
+    icon: fa-users
+    items:
+      - title: Wilson Orlando GIl 
+        subtitle:
+        description:
+          - paragraph: Administrador de Empresas - FUKL
+          - paragraph: Mgter. Admon y Plan. Educativa - UMECIT (Panamá)
+          - paragraph: Doctorante Admon Gerencial - UBJ (México)
+          - paragraph: + 57 (318) 878-0549
+  - name: Idiomas
+    icon: fa-language
+    items:
+      - title: Español
+        subtitle: Native
+      - title: Inglés
+        subtitle: Advanced
+  - name: Intereses
+    icon: fa-angellist
+    items:
+      - title:
+        subtitle:
+        description:
+          - paragraph: Fotografía
+          - paragraph: Cine
+          - paragraph: Needlework

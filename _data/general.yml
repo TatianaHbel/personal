@@ -1,116 +1,12 @@
 ### icons can be searched here https://fontawesome.com/icons?d=gallery
+### If you want to change the main profile image change it here under 'image'. Make sure the new image is inside the img/ folder
 
 title:       THEBELL
 description: This is the portfolio website of<br/><span style="color:white">Tatiana Hernandez Bel </span><br/>teacher, designer and photographer
+image:       pp.jpg
 twitter:     https://twitter.com/tatiHdez
 email:       tatihbel@gmail.com
 linkedin:    https://www.linkedin.com/in/cindy-tatiana-hernandez-beltran-b8859955/
 tumblr:      http://tatihbel.tumblr.com/
 pinterest:   https://www.pinterest.es/tatihbel/
-
-career:
-  title: Career Profile
-  description:
-    - paragraph: As an industrial designer, my academic, human and work training has focused on the development and implementation of useful proposals in the eld of design thinking and education. I have experience as director of creative and educational processes oriented to the planning, design and implementation of start ups and lean startup.
-   
-experience:
-  - title: Professor and mentor in Entrepreneurship. Innovation and creativity in technical area of ​​graphic and advertising design
-    time: 2017-Present
-    place: Ministerio de Educación Nacional - Secretaría de Educación Municipal Chía, Cundinamarca 
-    description: 
-      - paragraph: Mentor and guide in the entrepreneurship projects of the eleventh grade students in accompaniment with the articulation with the National Service of Learning SENA.
-      - paragraph: Leader and guide in the process of training on Entrepreneurship and ICT in agreement with the Municipal Education Secretariat of Chia with the University of La Rioja and PROEDUCA Spain.
-  
-  - title: Half time University professor of creativity and entrepreneurship.
-    time: 2018
-    place: Uniempresarial
-    description:
-      - paragraph: Teaching professor half time of the program of entrepreneurship and Mentorin the projects of entrepreneurship and creativity, of the programs of the university.
-      - paragraph: Evaluator of final projects of the Specialization in Senior Management.
-
-  - title: Professor and mentor in Entrepreneurship. Innovation and creativity in technical area of ​​graphic and advertising design
-    time: 2016-2017
-    place: Instituto Diversificado Albert Einstein - SAET LTDA
-    description:
-      - paragraph: Mentor in the projects of entrepreneurship and creativity of the eleventh grade students, Advisor and designer of the EXPOETTA technical fair.
-      - paragraph: Development of the curriculum of the technique in graphic and advertising design.
-
-  - title: Professor and mentor in Entrepreneurship. Innovation and creativity in technical area of ​​graphic and advertising design
-    time: 2014-2015
-    place: Ministerio de Educación Nacional - Secretaría de Educación Municipal Chía, Cundinamarca   
-    description:
-      - paragraph: Mentor and guide in the entrepreneurship projects of the eleventh grade students in accompaniment with the articulation with the National Service of Learning.
-      - paragraph: Development of the curriculum of the technique in graphic design and advertising.
-
-education:
-  - title: Magister en Informática Educativa 
-    time: 2015-2018
-    place: Universidad de la Sabana
-  - title: Industrial Designer
-    time: 2007-2012
-    place: Pontificia Universidad Javeriana
-
-extra:
-  - name: Other studies
-    icon: fa-university
-    items:
-      - title: Diploma in Pedagogy for Non-Licensed Professionals 
-        time: 2015
-        subtitle: Universidad Santo Tomás Abierta y a Distancia
-      - title: Professional Photography Course
-        time: 2013
-        subtitle: Escuela de Cine y Fotografía, Zona Cinco
-      - title: Essential Modeling Rhinoceros Training
-        time: 2013
-        subtitle: Voxel Consulting and Training, de titularidad privada
-      - title: Diploma in Branding, Management and Brand Management
-        subtitle: Pontificia Universidad Javeriana
-        time: 2013
-  - name: Recommendations
-    icon: fa-users
-    items:
-      - title: Wilson Orlando GIl 
-        subtitle:
-        description:
-          - paragraph: Administrador de Empresas - FUKL
-          - paragraph: Mgter. Admon y Plan. Educativa - UMECIT (Panamá)
-          - paragraph: Doctorante Admon Gerencial - UBJ (México)
-          - paragraph: + 57 (318) 878-0549
-  - name: Languages
-    icon: fa-language
-    items:
-      - title: Spanish
-        subtitle: Native
-      - title: English
-        subtitle: Advanced
-  - name: Interests
-    icon: fa-angellist
-    items:
-      - title:
-        subtitle:
-        description:
-          - paragraph: Photography
-          - paragraph: Cinema
-          - paragraph: Needlework
-
-skills:
-  - title: Creative Process 
-    level: 100%
-  - title: Strategic Planning
-    level: 80%
-  - title: Project Management and Research
-    level: 90%
-  - title: Photoshop 
-    level: 90%
-  - title: Illustrator
-    level: 95%  
-  - title: After Effects
-    level: 50%
-  - title: CSS
-    level: 40%
-  - title: VideoCut Premiere
-    level: 40%
- 
-
-
 

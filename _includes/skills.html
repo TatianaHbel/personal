@@ -1,11 +1,17 @@
-{% if site.data.general.skills %}
+{% if {{include.lang}} == 'ES' %}
+    {% assign skills = site.data.skills.skills-es %}
+{% else %}
+    {% assign skills = site.data.skills.skills %}
+{% endif %}
+
+{% if skills %}
 <section class="skills-section section">
 
   <h2 class="section-title"><i class="fa fa-rocket"></i> Skills &amp; Proficiency</h2>
 
   <div class="skillset">
 
-    {% for skill in site.data.general.skills %}
+    {% for skill in skills %}
     <div class="item">
 
       <h3 class="level-title">{{ skill.title }}</h3>

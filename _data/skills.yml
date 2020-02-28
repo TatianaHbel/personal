@@ -1,0 +1,35 @@
+skills:
+  - title: Creative Process 
+    level: 100%
+  - title: Strategic Planning
+    level: 80%
+  - title: Project Management and Research
+    level: 90%
+  - title: Photoshop 
+    level: 90%
+  - title: Illustrator
+    level: 95%  
+  - title: After Effects
+    level: 50%
+  - title: CSS
+    level: 40%
+  - title: VideoCut Premiere
+    level: 40%
+skills-es:
+  - title: Creative Process 
+    level: 100%
+  - title: Planeación Estratégica
+    level: 80%
+  - title: Project Management and Research
+    level: 90%
+  - title: Photoshop 
+    level: 90%
+  - title: Illustrator
+    level: 95%  
+  - title: After Effects
+    level: 50%
+  - title: CSS
+    level: 40%
+  - title: VideoCut Premiere
+    level: 40%
+

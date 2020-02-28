@@ -1,0 +1,19 @@
+education:
+  title: Education
+  items:
+    - title: Magister en Informática Educativa 
+      time: 2015-2018
+      place: Universidad de la Sabana
+    - title: Industrial Designer
+      time: 2007-2012
+      place: Pontificia Universidad Javeriana
+
+education-es:
+  title: Educacion
+  items:
+    - title: Magister en Informática Educativa 
+      time: 2015-2018
+      place: Universidad de la Sabana
+    - title: Diseñadora Industrial
+      time: 2007-2012
+      place: Pontificia Universidad Javeriana

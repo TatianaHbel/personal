@@ -1,7 +1,13 @@
-<section class="section">
-    <h2 class="section-title"><i class="fa fa-graduation-cap"></i> Education</h2>
+{% if {{include.lang}} == 'ES' %}
+	{% assign education = site.data.education.education-es %}
+{% else %}
+	{% assign education = site.data.education.education %}
+{% endif %}
 
-    {% for entry in site.data.general.education %}
+<section class="section">
+    <h2 class="section-title"><i class="fa fa-graduation-cap"></i> {{ education.title }}</h2>
+
+    {% for entry in education.items %}
 
     <div class="item">
         <h4 class="job-title">{{ entry.title }}</h4>
