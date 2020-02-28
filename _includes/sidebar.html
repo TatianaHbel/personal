@@ -23,8 +23,13 @@
         <a href="mailto:{{ site.data.general.email }}"><i class="fa fa-envelope"></i></a>
         {% endif %}
       </div>
-
-      <p class="lead">{{ site.data.general.description }}</p>
+      <p class="lead">
+        {% if page.lang == 'es' %}
+          {{ site.data.general.description-es }}
+        {% else %}
+          {{ site.data.general.description }}
+        {% endif %}
+      </p>
     </div>
 
     <div>

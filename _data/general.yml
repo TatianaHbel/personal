@@ -1,12 +1,13 @@
 ### icons can be searched here https://fontawesome.com/icons?d=gallery
 ### If you want to change the main profile image change it here under 'image'. Make sure the new image is inside the img/ folder
 
-title:       THEBELL
-description: This is the portfolio website of<br/><span style="color:white">Tatiana Hernandez Bel </span><br/>teacher, designer and photographer
-image:       pp.jpg
-twitter:     https://twitter.com/tatiHdez
-email:       tatihbel@gmail.com
-linkedin:    https://www.linkedin.com/in/cindy-tatiana-hernandez-beltran-b8859955/
-tumblr:      http://tatihbel.tumblr.com/
-pinterest:   https://www.pinterest.es/tatihbel/
+title:          THEBELL
+description:    This is the portfolio website of<br/><span style="color:white">Tatiana Hernandez Bel </span><br/>teacher, designer and photographer
+description-es: Este es el portfolio de <br/><span style="color:white">Tatiana Hernandez Bel </span><br/>teacher, designer and photographer
+image:          pp.jpg
+twitter:        https://twitter.com/tatiHdez
+email:          tatihbel@gmail.com
+linkedin:       https://www.linkedin.com/in/cindy-tatiana-hernandez-beltran-b8859955/
+tumblr:         http://tatihbel.tumblr.com/
+pinterest:      https://www.pinterest.es/tatihbel/
 
