@@ -2,13 +2,14 @@ jQuery(document).ready(function($) {
 
     $('.level-bar-inner').css('width', '0');
 
-        $('.level-bar-inner').each(function() {
+    $('.level-bar-inner').each(function() {
+    
+        var itemWidth = $(this).data('level');
         
-            var itemWidth = $(this).data('level');
-            
-            $(this).animate({
-                width: itemWidth
-            }, 800);
-            
-        });
+        $(this).animate({
+            width: itemWidth
+        }, 800);
+        
+    });
+    $(".sidebar").height($(".content").height() + 200);
 });
