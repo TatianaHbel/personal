@@ -17,3 +17,5 @@ lang: es
 {% include extra-sections.html lang='ES' %}
 
 {% include skills.html lang='ES' %}
+
+{% include interests.html lang='ES' %}

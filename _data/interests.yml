@@ -1,0 +1,20 @@
+interests:
+  name: Interests
+  icon: fa-angellist
+  items:
+    - title:
+      subtitle:
+      description:
+        - paragraph: Photography
+        - paragraph: Cinema
+        - paragraph: Needlework
+interests-es:
+  name: Interests
+  icon: fa-angellist
+  items:
+    - title:
+      subtitle:
+      description:
+        - paragraph: Photography
+        - paragraph: Cinema
+        - paragraph: Needlework

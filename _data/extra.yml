@@ -31,15 +31,6 @@ extra:
         subtitle: Native
       - title: English
         subtitle: Advanced
-  - name: Interests
-    icon: fa-angellist
-    items:
-      - title:
-        subtitle:
-        description:
-          - paragraph: Photography
-          - paragraph: Cinema
-          - paragraph: Needlework
 
 extra-es:
   - name: Otros Estudios

@@ -1,0 +1,41 @@
+{% if {{include.lang}} == 'ES' %}
+    {% assign interests = site.data.interests.interests-es %}
+{% else %}
+    {% assign interests = site.data.interests.interests %}
+{% endif %}
+
+<section class="section summary-section">
+    <h2 class="section-title"><i class="fa {{ interests.icon }}"></i> {{ interests.name }}</h2>
+
+    {% for item in interests.items %}
+
+	<div class="item">
+
+		<div class="meta">
+
+		  <div class="upper-row">
+		    <h3 class="job-title">{{ item.title }}</h3>
+		    {% if item.time %}
+		    <div class="time">{{ item.time }}</div>
+		    {% endif %}
+		  </div><!--//upper-row-->
+
+		  <div class="company">{{ item.subtitle }}</div>
+
+		</div><!--//meta-->
+
+		{% if item.description %}
+		<div class="summary">
+		  {% for paragraph in item.description %}
+
+		  <p> {{ paragraph.paragraph }} </p>
+
+		  {% endfor %}
+		</div>
+		{% endif %}
+
+	</div><!--//item-->
+
+	{% endfor %}
+</section>
+<!--//section-->
