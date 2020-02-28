@@ -45,16 +45,16 @@ extra-es:
   - name: Otros Estudios
     icon: fa-university
     items:
-      - title: Diploma en Pedagogy for Non-Licensed Professionals 
+      - title: Diplomado en Pedagogía para Profesionales no Licenciados  
         time: 2015
         subtitle: Universidad Santo Tomás Abierta y a Distancia
-      - title: Professional Photography Course
+      - title: Curso Profesional de Fotografía
         time: 2013
         subtitle: Escuela de Cine y Fotografía, Zona Cinco
       - title: Essential Modeling Rhinoceros Training
         time: 2013
         subtitle: Voxel Consulting and Training, de titularidad privada
-      - title: Diploma in Branding, Management and Brand Management
+      - title: Diplomado en Branding, Gestión y Manejo de Marca
         subtitle: Pontificia Universidad Javeriana
         time: 2013
   - name: Producción Académica
@@ -66,7 +66,7 @@ extra-es:
       - title: PARTICIPACIÓN EN EVENTOS ACADÉMICOS
         subtitle: The 2nd Innovative and Creative Education and Teaching International Conference (ICETIC2018), Badajoz, Spain, 20–22 June 2018.
       - title: ORCID ID
-        subtitle: https://orcid.org/0000-0003-1592-1323
+        subtitle: <a href="https://orcid.org/0000-0003-1592-1323">orcid.org</a>
   - name: Idiomas
     icon: fa-language
     items:
