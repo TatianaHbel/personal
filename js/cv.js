@@ -11,5 +11,8 @@ jQuery(document).ready(function($) {
         }, 800);
         
     });
-    $(".sidebar").height($(".content").height() + 200);
+    if ($(".content").css('margin-left') != '0px') {
+    	$(".sidebar").height($(".content").height() + 200);	
+    }
+    
 });
