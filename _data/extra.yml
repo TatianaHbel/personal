@@ -57,23 +57,23 @@ extra-es:
       - title: Diploma in Branding, Management and Brand Management
         subtitle: Pontificia Universidad Javeriana
         time: 2013
-  - name: Recomendaciones
+  - name: Producción Académica
     icon: fa-users
     items:
-      - title: Wilson Orlando GIl 
-        subtitle:
-        description:
-          - paragraph: Administrador de Empresas - FUKL
-          - paragraph: Mgter. Admon y Plan. Educativa - UMECIT (Panamá)
-          - paragraph: Doctorante Admon Gerencial - UBJ (México)
-          - paragraph: + 57 (318) 878-0549
+      - title: Ponencia publicada en la revista Proceedings MDPI.
+        subtitle: Hernández, C.; Duque, E. Creative Workshop Based on Augmented Reality for the Strengthening of Creativity through the Learning of the Design Thinking Methodology. Proceedings 2018, 2, 13599 Presented at the 2nd Innovative and Creative Education and Teaching
+                  International Conference (ICETIC2018), Badajoz, Spain, 20–22 June 2018.
+      - title: PARTICIPACIÓN EN EVENTOS ACADÉMICOS
+        subtitle: The 2nd Innovative and Creative Education and Teaching International Conference (ICETIC2018), Badajoz, Spain, 20–22 June 2018.
+      - title: ORCID ID
+        subtitle: https://orcid.org/0000-0003-1592-1323
   - name: Idiomas
     icon: fa-language
     items:
       - title: Español
-        subtitle: Native
+        subtitle: Nativo
       - title: Inglés
-        subtitle: Advanced
+        subtitle: Advanzado
   - name: Intereses
     icon: fa-angellist
     items:
@@ -82,4 +82,4 @@ extra-es:
         description:
           - paragraph: Fotografía
           - paragraph: Cine
-          - paragraph: Needlework
+          - paragraph: Tejido a dos agujas
