@@ -1,5 +1,5 @@
 education:
-  title: Education
+  title: Educación
   items:
     - title: Magister en Informática Educativa 
       time: 2015-2018
@@ -9,7 +9,7 @@ education:
       place: Pontificia Universidad Javeriana
 
 education-es:
-  title: Educacion
+  title: Educación
   items:
     - title: Magister en Informática Educativa 
       time: 2015-2018
