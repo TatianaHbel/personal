@@ -31,15 +31,6 @@ extra:
         subtitle: Native
       - title: English
         subtitle: Advanced
-  - name: Intereses
-    icon: fa-angellist
-    items:
-      - title:
-        subtitle:
-        description:
-          - paragraph: Fotografía
-          - paragraph: Cinema
-          - paragraph: Tejido en dos agujas 
 
 extra-es:
   - name: Otros Estudios
