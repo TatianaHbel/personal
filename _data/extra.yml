@@ -74,12 +74,4 @@ extra-es:
         subtitle: Nativo
       - title: Inglés
         subtitle: Advanzado
-  - name: Intereses
-    icon: fa-angellist
-    items:
-      - title:
-        subtitle:
-        description:
-          - paragraph: Fotografía
-          - paragraph: Cine
-          - paragraph: Tejido a dos agujas
+  
