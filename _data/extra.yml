@@ -6,6 +6,7 @@ extra:
         time: 2015
         subtitle: Universidad Santo Tomás Abierta y a Distancia
       - title: Professional Photography Course
+        place: Bogotá, Colombia 
         time: 2013
         subtitle: Escuela de Cine y Fotografía, Zona Cinco
       - title: Essential Modeling Rhinoceros Training
@@ -14,16 +15,6 @@ extra:
       - title: Diploma in Branding, Management and Brand Management
         subtitle: Pontificia Universidad Javeriana
         time: 2013
-  - name: Recommendations
-    icon: fa-users
-    items:
-      - title: Wilson Orlando GIl 
-        subtitle:
-        description:
-          - paragraph: Administrador de Empresas - FUKL
-          - paragraph: Mgter. Admon y Plan. Educativa - UMECIT (Panamá)
-          - paragraph: Doctorante Admon Gerencial - UBJ (México)
-          - paragraph: + 57 (318) 878-0549
   - name: Languages
     icon: fa-language
     items:
@@ -39,6 +30,7 @@ extra-es:
       - title: Diplomado en Pedagogía para Profesionales no Licenciados  
         time: 2015
         subtitle: Universidad Santo Tomás Abierta y a Distancia
+        place: Bogotá, Colombia 
       - title: Curso Profesional de Fotografía
         time: 2013
         subtitle: Escuela de Cine y Fotografía, Zona Cinco
@@ -51,7 +43,7 @@ extra-es:
   - name: Producción Académica
     icon: fa-users
     items:
-      - title: Ponencia publicada en la revista Proceedings MDPI.
+      - title: Articulo sobre Creatividad publicado en la revista Proceedings MDPI.
         subtitle: Hernández, C.; Duque, E. Creative Workshop Based on Augmented Reality for the Strengthening of Creativity through the Learning of the Design Thinking Methodology. Proceedings 2018, 2, 13599 Presented at the 2nd Innovative and Creative Education and Teaching
                   International Conference (ICETIC2018), Badajoz, Spain, 20–22 June 2018.
       - title: PARTICIPACIÓN EN EVENTOS ACADÉMICOS
@@ -64,5 +56,5 @@ extra-es:
       - title: Español
         subtitle: Nativo
       - title: Inglés
-        subtitle: Advanzado
+        subtitle: Avanzado
   

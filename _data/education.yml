@@ -1,6 +1,8 @@
 education:
   title: Educación
   items:
+    - title: Máster en Gestión de Contenidos Digitales 
+      time: 2020 - present
     - title: Magister en Informática Educativa 
       time: 2015-2018
       place: Universidad de la Sabana
@@ -11,7 +13,10 @@ education:
 education-es:
   title: Educación
   items:
-    - title: Magister en Informática Educativa 
+    - title: Máster en Gestión de Contenidos Digitales 
+      time: 2020 - present
+      place: Universitat de Barcelona 
+    - title: Máster en Informática Educativa 
       time: 2015-2018
       place: Universidad de la Sabana
     - title: Diseñadora Industrial

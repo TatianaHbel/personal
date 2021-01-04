@@ -1,10 +1,6 @@
 skills:
-  - title: Creative Process 
-    level: 100%
-  - title: Strategic Planning
-    level: 80%
-  - title: Project Management and Research
-    level: 90%
+  - title: Figma
+    level: 70%
   - title: Photoshop 
     level: 90%
   - title: Illustrator
@@ -13,22 +9,31 @@ skills:
     level: 50%
   - title: CSS
     level: 40%
-  - title: VideoCut Premiere
+  - title: HTML
     level: 40%
-skills-es:
   - title: Proceso Creativo 
     level: 100%
   - title: Planeación Estratégica
     level: 80%
   - title: Investigación y Gestión de Proyectos
     level: 90%
+
+skills-es:
+  - title: Figma
+    level: 70%
   - title: Photoshop 
     level: 90%
   - title: Illustrator
     level: 95%  
+  - title: Proceso Creativo 
+    level: 100%
+  - title: Planeación Estratégica
+    level: 80%
+  - title: Investigación y Gestión de Proyectos
+    level: 90%
   - title: After Effects
     level: 50%
-  - title: CSS
+  - title: HTML
     level: 40%
-  - title: VideoCut Premiere
+  - title: CSS
     level: 40%
