@@ -1,0 +1,32 @@
+{% if {{include.lang}} == 'ES' %}
+    {% assign expertises = site.data.expertise.expertise-es %}
+{% else %}
+    {% assign expertises = site.data.expertise.expertise %}
+{% endif %}
+
+{% if expertises %}
+<section class="skills-section section">
+  <h2 class="section-title"><i class="fa fa-rocket"></i> Expertise</h2>
+
+  <div class="skillset">
+
+    {% for expertise in expertises %}
+    <div class="item">
+
+      <h3 class="level-title">{{ expertise.title }}</h3>
+
+      <div class="level-bar">
+        <div class="level-bar-inner" data-level="{{ skill.level }}">
+        </div>
+      </div><!--//level-bar-->
+
+    </div><!--//item-->
+    {% endfor %}
+
+  </div>
+
+</section><!--//skills-section-->
+{% endif %}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="../js/cv.js"></script>

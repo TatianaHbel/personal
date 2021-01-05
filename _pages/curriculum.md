@@ -10,12 +10,14 @@ lang: es
 
 {% include career-profile.html lang='ES' %}
 
+{% include skills.html lang='ES' %}
+
+{% include expertise.html lang='ES' %}
+
 {% include experience.html lang='ES' %}
 
 {% include education.html lang='ES' %}
 
 {% include extra-sections.html lang='ES' %}
-
-{% include skills.html lang='ES' %}
 
 {% include interests.html lang='ES' %}

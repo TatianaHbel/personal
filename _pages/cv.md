@@ -9,6 +9,8 @@ permalink: /resume/
 
 {% include career-profile.html %}
 
+{% include expertise.html %}
+
 {% include experience.html %}
 
 {% include education.html %}
