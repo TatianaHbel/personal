@@ -1,39 +1,26 @@
 skills:
+  - title: Adobe Illustrator
+    level: 95%  
+  - title: Adobe Photoshop 
+    level: 90%
   - title: Figma
     level: 70%
-  - title: Photoshop 
-    level: 90%
-  - title: Illustrator
-    level: 95%  
+  - title: Procreate
+    level: 60%  
   - title: After Effects
     level: 50%
-  - title: CSS
-    level: 40%
-  - title: HTML
-    level: 40%
-  - title: Proceso Creativo 
-    level: 100%
-  - title: Planeación Estratégica
-    level: 80%
-  - title: Investigación y Gestión de Proyectos
-    level: 90%
-
+  - title: HTML y CSS
+    level: 50%
 skills-es:
+  - title: Adobe Illustrator
+    level: 95%  
+  - title: Adobe Photoshop 
+    level: 90%
   - title: Figma
     level: 70%
-  - title: Photoshop 
-    level: 90%
-  - title: Illustrator
-    level: 95%  
-  - title: Proceso Creativo 
-    level: 100%
-  - title: Planeación Estratégica
-    level: 80%
-  - title: Investigación y Gestión de Proyectos
-    level: 90%
+  - title: Procreate
+    level: 60%  
   - title: After Effects
     level: 50%
-  - title: HTML
-    level: 40%
-  - title: CSS
-    level: 40%
+  - title: HTML y CSS
+    level: 50%
